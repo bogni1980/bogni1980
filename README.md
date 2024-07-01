@@ -4,6 +4,80 @@
 
 - ⚡ Fun fact: Люблю фриланс))
 
+
+<table>
+<tr> 
+<td width="550">
+
+   <h2> My socials </h2>
+   
+   [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)]([https://t.me/BigbigBog])
+  
+</td>
+</tr>
+</table>
+<table>
+
+<td>
+   <tr>
+      <td> Education </td>
+       <td>
+          <img src="https://media.licdn.com/dms/image/C4E0BAQFvMau8fT9EaA/company-logo_100_100/0/1659612017327/__logo?e=1722470400&v=beta&t=geZfYtjn_AQrj5wvezd-gsAIZZwkmBHafdgzV6gF--M" title="Yandex practicum" width="70"/>&nbsp;
+      </td>
+      <td>         
+           <img src="https://upload.wikimedia.org/wikipedia/ru/archive/0/03/20150713222832%21RANEPA_logo.png" title="Moscow polytech" width="70"/>&nbsp;
+      </td>
+   
+  </tr>
+  <tr>
+      <td> Languages </td>
+      <td>
+          <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/242px-Python-logo-notext.svg.png" width="70"/>&nbsp;
+      </td>
+      
+  </tr>
+  <tr>
+      <td> Tools </td>
+      <td>
+           <img src="https://pandas.pydata.org/docs/_static/pandas.svg" title="Pandas" width="70"/>&nbsp;
+      </td>
+      <td>
+           <img src="https://matplotlib.org/stable/_static/logo_light.svg" title="Matplotlib" width="70"/>&nbsp;
+      </td>
+      <td>
+           <img src="https://docs.scipy.org/doc/scipy/_static/logo.svg" width="70"/>&nbsp;
+      </td>
+      <td> 
+           <img src="https://numpy.org/doc/stable/_static/numpylogo.svg" title="Numpy" width="70"/>&nbsp;
+      </td>
+     <td> 
+           <img src="https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png" title="Sklearn" width="70"/>&nbsp;
+      </td>
+      <td>
+           <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Plotly-logo.png/440px-Plotly-logo.png" width="70"/>&nbsp;
+      </td> 
+     <td>
+           <img src="https://www.postgresql.org/media/img/about/press/elephant.png" width="70"/>&nbsp
+      </td>    
+  </tr>
+  <tr>
+      <td> OS </td>
+      <td>
+           <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Windows_logo_and_wordmark_-_2021.svg/420px-Windows_logo_and_wordmark_-_2021.svg.png" title="Windows" width="100"/>&nbsp;
+      </td>
+    
+  </tr>
+  <tr>
+     <td> IDEs/Editors </td>
+      <td>
+           <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/240px-Jupyter_logo.svg.png" title="Jupyter" width="70"/>&nbsp;
+      </td>
+      <td>
+           <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnoirCtiJhhN8Tvo0FJRRd4CInsOXkRX9EbA&amp;s" jsaction="VQAsE" class="sFlh5c ag2Pqd pT0Scc" alt="Visual Studio Code — Википедия" jsname="JuXqh" style="max-width: 50px; height: 50px; margin: 0px; width: 80px;" data-ilt="1719823798005">&nbsp;
+      </td>
+      
+  </tr>
+</table>
 <!---
 bogni1980/bogni1980 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.

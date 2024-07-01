@@ -45,6 +45,9 @@
            <img src="https://matplotlib.org/stable/_static/logo_light.svg" title="Matplotlib" width="70"/>&nbsp;
       </td>
       <td>
+           <img src="https://repository-images.githubusercontent.com/4704710/fd110d80-63d1-11eb-9ae4-de7c23c9dedc" jsaction="VQAsE" class="sFlh5c pT0Scc iPVvYb" style="max-width: 100px; width: 100px; height: 100px; margin: 4px 0px;" alt="GitHub - mwaskom/seaborn: Statistical data visualization in Python" jsname="kn3ccd" aria-hidden="false"/>&nbsp;
+      </td>
+     <td>
            <img src="https://docs.scipy.org/doc/scipy/_static/logo.svg" width="70"/>&nbsp;
       </td>
       <td> 
@@ -55,6 +58,9 @@
       </td>
       <td>
            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Plotly-logo.png/440px-Plotly-logo.png" width="70"/>&nbsp;
+      </td> 
+      <td>
+           <img src="https://nss-full-time-data-analytics-4.github.io/assets/tech_img/folium.png" jsaction="VQAsE" class="sFlh5c pT0Scc iPVvYb" style="max-width: 100px; height: 100px; margin: 0px; width: 100px;" alt="Folium/>&nbsp;
       </td> 
      <td>
            <img src="https://www.postgresql.org/media/img/about/press/elephant.png" width="70"/>&nbsp

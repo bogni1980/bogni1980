@@ -84,6 +84,15 @@
       
   </tr>
 </table>
+# Portfolio
+
+Здесь собраны некоторые реализованные проекты
+
+| #    | Наименование проекта                | Описание                                                     | Стек                                                         |
+| ---- | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| 1.   | [Go-fast](https://github.com/bogni1980/Go-fast?tab=readme-ov-file#go-fast) | Необходимо проанализировать данные   <br/>и проверить некоторые гипотезы, <br/>которые могут помочь бизнесу вырасти| python, pandas, numpy, scipy, matplotlib, seaborn   |
+| 2.   | [Catering_market](https://github.com/bogni1980/Catering_market) |Необходимо подготовить исследование рынка Москвы,   <br/>найти интересные особенности и презентовать полученные результаты, <br/>которые в будущем помогут в выборе подходящего инвесторам места. | pandas, matplotlib.pyplot, numpy, seaborn, plotly, folium, Map, Choropleth, Marker, folium.features |
+| 3.   | [Анализ текстов](https://github.com/bogni1980/Wikishop?tab=readme-ov-file#wikishop) | Анализ комментариев пользователей на токсичность             | python, pandas, numpy, nltk, sklearn, ltk |
 <!---
 bogni1980/bogni1980 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
